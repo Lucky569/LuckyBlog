@@ -1,0 +1,2 @@
+# LuckyBlog
+基于springboot/mybatis/thymeleaf实现的博客系统，此项目对本人javaweb课程设计的基于servlet/jsp博客进行升级重构
